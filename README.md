@@ -1,6 +1,17 @@
 # Kush Turner
 
-**`Goals during my gap year:`**
+
+<a href="https://linkedin.com/in/kushturner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushturner" height="30" width="40" /></a>
+
+---
+
+**`About me:`**
+
+**Hi 👋🏾 welcome to my Github! I am an aspiring full stack software engineer, have interest in data science and currently on a gap year after sixth form. I also like Python 🐍**
+
+---
+
+**`Goals:`**
 
  - 🐍 Learn Python ✅
  - 📄 Learn SQL ✅ 
@@ -8,6 +19,7 @@
  - 💻 Develop a personal website (in development)
  - 🔨 Develop an algorithm visualiser (in development)
  - 📚 Read Structure and Interpretation of Computer Programs by MIT 
+ - Attend a hackathon
 
 ---
 
