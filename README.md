@@ -19,7 +19,7 @@
  - 💻 Develop a personal website (in development)
  - 🔨 Develop an algorithm visualiser (in development)
  - 📚 Read Structure and Interpretation of Computer Programs by MIT 
- - Attend a hackathon
+ - 👨🏾‍💻 Attend a hackathon
 
 ---
 
