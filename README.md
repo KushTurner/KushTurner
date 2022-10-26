@@ -7,7 +7,7 @@
 
 **`About me:`**
 
-**Hi 👋🏾 welcome to my Github! I am an aspiring full stack software engineer, have interest in data science and currently on a gap year after sixth form. I also like Python 🐍**
+**Hi 👋🏾 welcome to my Github! I am an aspiring full stack software engineer and currently on a gap year after sixth form.**
 
 ---
 
