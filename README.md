@@ -13,13 +13,9 @@
 
 **`Goals:`**
 
- - 🐍 Learn Python ✅
- - 📄 Learn SQL ✅ 
- - 📖 Complete [CS50](https://cs50.harvard.edu/x/2022/) (on week 8)
- - 💻 Develop a personal website (in development)
- - 🔨 Develop an algorithm visualiser (in development)
  - 📚 Read Structure and Interpretation of Computer Programs by MIT 
- - 👨🏾‍💻 Attend a hackathon
+ - 💥 Learn React
+ - 🌟 Create a project that includes front-end and back-end
 
 ---
 
