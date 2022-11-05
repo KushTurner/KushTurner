@@ -7,7 +7,7 @@
 
 **`About me:`**
 
-**Hi 👋🏾 welcome to my Github! I am an aspiring full stack software engineer and currently on a gap year after sixth form.**
+**Hi 👋🏾 welcome to my Github! I am an aspiring back end software developer and currently on a gap year after sixth form.**
 
 ---
 
