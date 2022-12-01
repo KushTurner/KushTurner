@@ -11,11 +11,11 @@
 
 ---
 
-**`Goals:`**
+**`Currently learning:`**
 
- - 📚 Read Structure and Interpretation of Computer Programs by MIT 
- - 💥 Learn React
- - 🌟 Create a project that includes front-end and back-end
+ - Version control best practices
+ - Django framework
+ - Cloud data
 
 ---
 
