@@ -1,11 +1,7 @@
 # Kush Turner
 
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushturner" height="30" width="40" /></a>
-
----
-
-**`About me:`**
+`About me:`**
 
 **Hi 👋🏾 welcome to my Github! I am an aspiring back end software developer and currently on a gap year after sixth form.**
 
