@@ -3,13 +3,14 @@
 
 `About me:`
 
-**Hi 👋🏾 welcome to my Github! I am an aspiring back end software developer and currently on a gap year after sixth form.**
+**Hi 👋🏾 I'm a Software Engineer.**
 
 ---
 
 **`Currently learning:`**
 
- - Cloud fundamentals
+ - C++
+ - Rust
 
 ---
 
