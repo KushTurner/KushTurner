@@ -1,7 +1,7 @@
 # Kush Turner
 
 
-`About me:`**
+`About me:`
 
 **Hi 👋🏾 welcome to my Github! I am an aspiring back end software developer and currently on a gap year after sixth form.**
 
