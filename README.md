@@ -10,7 +10,6 @@
 **`Currently learning:`**
 
  - C++
- - Rust
 
 ---
 
