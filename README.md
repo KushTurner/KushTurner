@@ -9,7 +9,7 @@
 
 **`Currently learning:`**
 
- - C++
+ - Go
 
 ---
 
